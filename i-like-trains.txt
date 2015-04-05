@@ -1,0 +1,756 @@
+2college.magister.net;2College
+2college.magister.net;2College Cobbenhagen
+2college.magister.net;2College De Nieuwste School
+2college.magister.net;2College Durendael
+2college.magister.net;2College Jozefmavo
+2college.magister.net;2College Ruiven
+2college.magister.net;2College Wandelbos
+accent.magister.net;Accent Nijkerk
+hoekschlyceum.magister.net;Actief College - Hoeksch Lyceum
+adelbert.magister.net;Adelbert College
+landstedevo.magister.net;Agnieten College
+atscholen.magister.net;Alberdingk Thijm College
+atscholen.magister.net;Alberdingk Thijm Mavo
+alfrink.magister.net;Alfrink College
+alkwin.magister.net;Alkwin Kollege
+almende.magister.net;Almende College Bluemers
+almende.magister.net;Almende College Isala
+almende.magister.net;Almende College Wesenthorst
+almerecollege.magister.net;Almere College Dronten
+almerecollege.magister.net;Almere College Kampen
+pcsintjoris.magister.net;Aloysius / De Roosten
+aloysius.magister.net;Aloysius College
+amadeus.magister.net;Amadeus Lyceum
+msa.magister.net;Amstellyceum
+annavanrijn.magister.net;Anna van Rijn College
+pcsintjoris.magister.net;Antoon Schellenscollege
+groenewelle.magister.net;AOC De Groene Welle Hardenberg
+groenewelle.magister.net;AOC De Groene Welle Zwolle
+aocoost.magister.net;AOC Oost
+aocoost.magister.net;AOC Oost Locatie Almelo
+aocoost.magister.net;AOC Oost Locatie Borculo
+aocoost.magister.net;AOC Oost Locatie Doetinchem
+aocoost.magister.net;AOC Oost Locatie Enschede
+aocoost.magister.net;AOC Oost Locatie Lochem
+aocoost.magister.net;AOC Oost Locatie Twello
+aocterra.magister.net;AOC Terra
+aocterra.magister.net;AOC Terra Assen
+aocterra.magister.net;AOC Terra Eelde
+aocterra.magister.net;AOC Terra Emmen
+aocterra.magister.net;AOC Terra Groene School Winsum
+aocterra.magister.net;AOC Terra Groningen
+aocterra.magister.net;AOC Terra Locatie De Brake
+aocterra.magister.net;AOC Terra Locatie Ripperda
+aocterra.magister.net;AOC Terra Meppel
+aocterra.magister.net;AOC Terra Oldekerk
+aocterra.magister.net;AOC Terra Onderwijsgroep Noord
+aocterra.magister.net;AOC Terra TerraNext
+aocterra.magister.net;AOC Terra Wolvega
+zaamzuid.magister.net;Apolloschool
+arentheem.magister.net;Arentheem College locatie Baken Warnsborn
+arentheem.magister.net;Arentheem College locatie Leerpark Presikhaaf
+arentheem.magister.net;Arentheem College locatie Middachten
+arentheem.magister.net;Arentheem College locatie Thomas a Kempis
+arentheem.magister.net;Arentheem College locatie Titus Brandsma
+hageveld.magister.net;Atheneum College Hageveld
+atlas.magister.net;Atlas College
+atlas.magister.net;Atlas College Copernicus SG
+atlas.magister.net;Atlas College OSG West-Friesland
+atlas.magister.net;Atlas College SG De Dijk
+atlas.magister.net;Atlas College SG De Triade
+atlas.magister.net;Atlas College VMBO Titaan
+aog.magister.net;Atlas Onderwijsgroep
+aog.magister.net;Atlas Onderwijsgroep Locatie Rijswijk
+aog.magister.net;Atlas Onderwijsgroep Lyceum Ypenburg
+avicenna.magister.net;Avicenna College
+bhc.magister.net;Baanderherencollege
+baudartius.magister.net;Baudartius College
+broekhinrm.magister.net;BC Broekhin Reuver
+broekhinrm.magister.net;BC Broekhin Roermond
+broekhinsw.magister.net;BC Broekhin Swalmen
+beatrix.magister.net;Beatrix College
+geldersmozaiek.magister.net;Beekdal Lyceum
+berechja.magister.net;Berechja College
+berger.magister.net;Berger SG
+zaamnoord.magister.net;Bernard Nieuwentijt College
+sovozaanstad.magister.net;Bertrand Russel College
+beukelsdijk.magister.net;Beukelsdijk
+beukenrodeonderwijs.magister.net;Beukenrode-Onderwijs
+zaamoost.magister.net;Bindelmeer College
+blariacum.magister.net;Blariacumcollege
+cvozwfryslan.magister.net;Bogerman Koudum
+cvozwfryslan.magister.net;Bogerman Sneek
+cvozwfryslan.magister.net;Bogerman Wommels
+bonaventura.magister.net;Bonaventuracollege
+bonhoeffer.magister.net;Bonhoeffer College
+bonifatiusmavo.magister.net;Bonifatius mavo
+bonnefanten.magister.net;Bonnefanten College
+nieuwzuid.magister.net;BOOR
+bbc.magister.net;Bouwens van der Boije College
+broeckland.magister.net;Broeckland College
+sgwalda.magister.net;Burgemeester Walda SG
+cals.magister.net;Cals College
+cals.magister.net;Cals College IJsselstein
+cals.magister.net;Cals College Nieuwegein
+calvijn.magister.net;Calvijn College Goes
+calvijn.magister.net;Calvijn College Krabbendijke
+calvijn.magister.net;Calvijn College Middelburg
+calvijn.magister.net;Calvijn College Tholen
+zaamwest.magister.net;Calvijn met Junior College
+candea.magister.net;Candea College
+canisius.magister.net;Canisius College
+capellen.magister.net;Capellenborg Wijhe
+helmond.magister.net;Carolus Borromeus College
+landstedevo.magister.net;Carolus Clusius College
+noordgouw.magister.net;Chr. College de Noordgouw Hattem
+noordgouw.magister.net;Chr. College de Noordgouw Heerde
+depopulier.magister.net;Chr. College De Populier
+groevenbeek.magister.net;Chr. College Groevenbeek
+ccnv.magister.net;Chr. College Nassau-Veluwe
+schaersvoorde.magister.net;Chr. College Schaersvoorde
+cgbn.magister.net;Chr. Gymnasium Beyers Naud?
+sorghvliet.magister.net;Chr. Gymnasium Sorghvliet
+clv.magister.net;Chr. Lyceum Veenendaal
+desaad.magister.net;Chr. Mavo De Saad
+deboog.magister.net;Chr. Praktijkschool De Boog
+csgwalcheren.magister.net;Chr. SG Walcheren
+vmboharderwijk.magister.net;Chr. VMBO-Harderwijk
+cgu.magister.net;Christelijk Gymnasium Utrecht
+cl-apeldoorn.magister.net;Christelijk Lyceum Apeldoorn
+chrlyceumdelft.magister.net;Christelijk Lyceum Delft
+huygenscollege.magister.net;Christiaan Huygens College
+citadel.magister.net;Citadel College
+arubano.magister.net;Colegio Arubano
+heemlanden.magister.net;College de Heemlanden
+zaamoost.magister.net;College De Meer
+denhulster.magister.net;College Den Hulster
+zaamwest.magister.net;Comenius Lyceum
+commanderij.magister.net;Commanderij College
+sovozaanstad.magister.net;Compaen College
+coornhert.magister.net;Coornhert Gymnasium
+20RF.magister.net;Coornhert Lyceum
+corderius.magister.net;Corderius College
+corlaer.magister.net;Corlaer College
+msa.magister.net;Cosmicus Monterssori Lyceum
+csvvg.magister.net;CS Vincent van Gogh
+csvvg.magister.net;CS Vincent van Gogh Lariks
+csvvg.magister.net;CS Vincent van Gogh Salland
+ams.magister.net;CSG Anna Maria van Schurman
+csgbeilen.magister.net;CSG Beilen
+buitenveldert.magister.net;CSG Buitenveldert
+comenius.magister.net;CSG Comenius
+delagewaard.magister.net;CSG De Lage Waard
+dingstede.magister.net;CSG Dingstede
+eekeringe.magister.net;CSG Eekeringe
+ghlyceum.magister.net;CSG Groene Hart Leerpark
+ghlyceum.magister.net;CSG Groene Hart Lyceum
+ghlyceum.magister.net;CSG Groene Hart Rijnwoude
+ghlyceum.magister.net;CSG Groene Hart Topmavo
+noordik.magister.net;CSG Het Noordik Almelo
+noordik.magister.net;CSG Het Noordik Vriezenveen
+noordik.magister.net;CSG Het Noordik Vroomshoop
+hetstreek.magister.net;CSG Het Streek
+ja.magister.net;CSG Jan Arentsz
+reggesteyn.magister.net;CSG Reggesteyn
+ulbevanhouten.magister.net;CSG Ulbe van Houten
+zwijger.magister.net;CSG Willem de Zwijger Schoonhoven
+dewillem.magister.net;CSG Willem van Oranje
+zandvliet.magister.net;CSG Zandvliet
+decsv.magister.net;CSV Veenendaal
+cvotgooi.magister.net;CVO 't Gooi
+cvotgooi.magister.net;CVO 't Gooi College de OpMaat
+cvotgooi.magister.net;CVO 't Gooi Comenius College
+cvotgooi.magister.net;CVO 't Gooi Hilfertsheem-Beatrix
+cvotgooi.magister.net;CVO 't Gooi Savornin Lohman
+zaamoost.magister.net;Cygnus Gymnasium
+davinci.magister.net;Da Vinci College
+daafgeluk.magister.net;Daaf Gelukschool
+dacapo.magister.net;DaCapo College
+daltondenhaag.magister.net;Dalton Den Haag
+ozhw.magister.net;Dalton Lyceum Barendrecht
+zaamnoord.magister.net;Damstede
+baander.magister.net;De Baander
+bolster.magister.net;De Bolster
+pcsintjoris.magister.net;De Burgh
+zaamzaandam.magister.net;De Faam
+gsgleovroman.magister.net;De Goudse SG Leo Vroman
+ozhw.magister.net;De Goudse Waarden
+sgdenhaag.magister.net;De Haagse
+heemgaard.magister.net;De Heemgaard
+demaat.magister.net;De Maat
+denassau.magister.net;De Nassau SG
+depijler.magister.net;De Pijler School voor Praktijkonderwijs
+piloot.magister.net;De Piloot
+rijzert.magister.net;De Rijzert
+derooipannen.magister.net;De Rooi Pannen
+derooipannen.magister.net;De Rooi Pannen Breda
+derooipannen.magister.net;De Rooi Pannen Eindhoven
+derooipannen.magister.net;De Rooi Pannen Tilburg
+schakel.magister.net;De Schakel
+utrechtse.magister.net;De Utrechtse School
+viaan.magister.net;De Viaan
+vszh.magister.net;De Vrije School Den Haag
+capellen.magister.net;De Zeven Linden Dedemsvaart
+zwengel.magister.net;De Zwengel - Helmond
+zwengel.magister.net;De Zwengel - Veldhoven
+zwengel.magister.net;De Zwengel - Vught
+dendron.magister.net;Dendron College
+disdh.magister.net;Deutsche internationale Schule Den Haag
+dockinga.magister.net;Dockingacollege
+dominicus.magister.net;Dominicus College
+donbosco.magister.net;Don Bosco College
+dongemond.magister.net;Dongemond college
+dongemond.magister.net;Dongemond college Made
+dongemond.magister.net;Dongemond college Raamsdonksveer
+dorenweerd.magister.net;Dorenweerd College
+aletta.magister.net;dr. Aletta Jacobs College
+helmond.magister.net;Dr.-Knippenbergcollege
+dc.magister.net;Drenthe College
+dc.magister.net;Drenthe College Assen
+dc.magister.net;Drenthe College Coevorden
+dc.magister.net;Drenthe College Emmen
+dc.magister.net;Drenthe College Hardenberg
+dc.magister.net;Drenthe College Hoogeveen
+dc.magister.net;Drenthe College Meppel
+dc.magister.net;Drenthe College Roden
+dc.magister.net;Drenthe College Ruinen
+dc.magister.net;Drenthe College Steenwijk
+dc.magister.net;Drenthe College Winschoten
+dc.magister.net;Drenthe College Zwolle
+dspierson.magister.net;Ds. Pierson College
+duinenkruid.magister.net;Duin en Kruidberg mavo
+eckart.magister.net;Eckartcollege
+edudelta.magister.net;Edudelta Onderwijsgroep
+edudelta.magister.net;Edudelta Onderwijsgroep Barendrecht
+edudelta.magister.net;Edudelta Onderwijsgroep Goes
+edudelta.magister.net;Edudelta Onderwijsgroep Middelharnis
+eemsdelta.magister.net;Eemsdeltacollege
+eclh.magister.net;Eerste Christelijke Lyceum Haarlem
+elde.magister.net;Elde College
+elzendaalboxmeer.magister.net;Elzendaalcollege Boxmeer
+elzendaalgennep.magister.net;Elzendaalcollege Gennep
+emelwerda.magister.net;Emelwerda College
+emmaus.magister.net;Emmauscollege
+erasmiaans.magister.net;Erasmiaans Gymnasium
+erasmus.magister.net;Erasmus College
+erfgooiers.magister.net;Erfgooiers College
+esdal.magister.net;Esdal College
+esdal.magister.net;Esdal College Borger
+esdal.magister.net;Esdal College Emmen
+esdal.magister.net;Esdal College Klazienaveen
+esdal.magister.net;Esdal College Oosterhesselen
+esloo.magister.net;Esloo Onderwijsgroep College St. Paul
+esloo.magister.net;Esloo Onderwijsgroep Corbulo College
+esloo.magister.net;Esloo Onderwijsgroep Diamant College
+esloo.magister.net;Esloo Onderwijsgroep Esloo Praktijkonderwijs
+esloo.magister.net;Esloo Onderwijsgroep I.C.Edith Stein
+esloo.magister.net;Esloo Onderwijsgroep Montaigne Lyceum
+esprit.magister.net;Esprit Scholen AICS
+esprit.magister.net;Esprit Scholen Berlage Lyceum
+esprit.magister.net;Esprit Scholen Cartesius Lyceum
+esprit.magister.net;Esprit Scholen Het 4e Gymnasium
+esprit.magister.net;Esprit Scholen Marcanti College
+esprit.magister.net;Esprit Scholen Mondriaan
+esprit.magister.net;Esprit Scholen Nova College Amsterdam
+esprit.magister.net;Esprit Scholen Wissel
+esprit.magister.net;Esprit Scholengroep
+passie.magister.net;Evang. School voor VO de Passie Utrecht
+farel.magister.net;Farel College Amersfoort
+fioretti.magister.net;Fioretti College
+fivel.magister.net;Fivelcollege
+flexcollege.magister.net;Flexcollege Nijmegen
+fonsvitae.magister.net;Fons Vitae Lyceum
+francoisvatel.magister.net;Francois Vatelschool
+frieslandcollege.magister.net;Friesland College Educatie
+frieslandcollege.magister.net;Friesland College Heerenveen
+frieslandcollege.magister.net;Friesland College Leeuwarden
+frieslandcollege.magister.net;Friesland College Sneek
+futura.magister.net;Futura College
+gymnhilversum.magister.net;Gemeentelijk Gymnasium Hilversum
+ozhw.magister.net;Gemini College Lekkerkerk
+ozhw.magister.net;Gemini College Ridderkerk
+gerritkomrijcollege.magister.net;Gerrit Komrij College
+grc.magister.net;Gerrit Rietveld College
+zaamzuid.magister.net;Gerrit van der Veen College
+globe.magister.net;Globe College
+gomarus.magister.net;Gomarus College Groningen
+engelbrecht.magister.net;Graaf Engelbrecht
+ghc.magister.net;Graaf Huyn College
+gc.magister.net;Graafschap College
+glr.magister.net;Grafisch Lyceum Rotterdam
+greijdanus.magister.net;Greijdanus Enschede
+greijdanus.magister.net;Greijdanus Hardenberg
+greijdanus.magister.net;Greijdanus Meppel
+greijdanus.magister.net;Greijdanus Zwolle
+grienden.magister.net;Griendencollege-VMBO
+atscholen.magister.net;Groot Goylant
+grotiuscollege.magister.net;Grotius College Delft
+parkstad.magister.net;Grotius College Heerlen
+guido.magister.net;GSG Guido De Bres
+schylgerjouw.magister.net;GSG 't Schylger Jouw
+gsgpo.magister.net;GSGPO
+gwendoline.magister.net;Gwendoline van Puttenschool
+beekvliet.magister.net;Gymnasium Beekvliet
+bernrode.magister.net;Gymnasium Bernrode
+celeanum.magister.net;Gymnasium Celeanum
+felisenum.magister.net;Gymnasium Felisenum
+haganum.magister.net;Gymnasium Haganum
+juvenaat.magister.net;Gymnasium Juvenaat
+novum.magister.net;Gymnasium Novum
+werkman.magister.net;H.N. Werkman College
+hml.magister.net;Haags Montessori Lyceum
+haarlemcollege.magister.net;Haarlem College
+hlml.magister.net;Haarlemmermeer Lyceum
+barger.magister.net;Haemstede Barger VMBO-T
+19EQ.magister.net;Hartenlustschool
+notredame.magister.net;Havo Notre Dame des Anges
+vobo.magister.net;Heerbeeck College
+heerenlanden.magister.net;Heerenlanden College
+hpc.magister.net;Hendrik Pierson College
+hvc.magister.net;Herbert Vissers College
+hermannwesselink.magister.net;Hermann Wesselink College
+hervion.magister.net;Hervion College
+hlw.magister.net;Hervormd Lyceum West
+hlz.magister.net;Hervormd Lyceum Zuid
+amsterdams.magister.net;Het Amsterdams Lyceum
+hetatrium.magister.net;Het Atrium
+scz.magister.net;Het Atrium Zoetermeer
+collegevos.magister.net;Het College Vos
+osgerasmus.magister.net;Het Erasmus
+pontessg.magister.net;Het Goese Lyceum
+sgdenhaag.magister.net;Het Haagsch Vakcollege
+hogeland.magister.net;Het Hogeland College
+hogeland.magister.net;Het Hogeland College Uithuizen
+hogeland.magister.net;Het Hogeland College Wehe-den Hoorn
+hetkwadrant.magister.net;Het Kwadrant Bergen op Zoom
+mollerlyceum.magister.net;Het Ravelijn Steenbergen
+schoonhovens.magister.net;Het Schoonhovens College
+segmentgouda.magister.net;Het Segment
+hetstedelijk.magister.net;Het Stedelijk Lyceum Enschede
+hetstedelijk.magister.net;Het Stedelijk Lyceum Scholingsboulevard Enschede
+sgdenhaag.magister.net;Het Wateringse Veld College
+20tz.magister.net;Het Westeraam
+sgdenhaag.magister.net;Het Zuid-West College
+starnuman.magister.net;Heyerdahl College
+hofstede.magister.net;Hofstede Praktijkschool
+zaamnoord.magister.net;Hogelant
+hoofdvaart.magister.net;Hoofdvaart College
+hmlc.magister.net;Hout- en Meubileringscollege HMC Amsterdam
+hmlc.magister.net;Hout- en Meubileringscollege HMC Rotterdam
+houtens.magister.net;Houtens
+zaamzuid.magister.net;Huygens College Amsterdam
+huygens.magister.net;Huygens College Heerhugowaard
+ichthus.magister.net;Ichthus College
+atscholen.magister.net;ICT Campus Hilversum
+idcollege.magister.net;ID College
+zaamwest.magister.net;Iedersland College
+ijburg.magister.net;IJburg College
+ijsselcollege.magister.net;IJsselcollege
+ivodeurne.magister.net;Instelling VO Deurne
+ivodeurne.magister.net;Instelling VO Deurne Alfrinkcollege
+ivodeurne.magister.net;Instelling VO Deurne Hub van Doornecollege
+ivodeurne.magister.net;Instelling VO Deurne Peellandcollege
+blankestijn.magister.net;Instituut Blankestijn
+insula.magister.net;Insula College
+hofstadcollege.magister.net;Interconf. Hofstadcollege Heldring VMBO
+hofstadcollege.magister.net;Interconf. Hofstadcollege Hofstad Lyceum
+hofstadcollege.magister.net;Interconf. Hofstadcollege Hofstad Mavo
+isw.magister.net;Interconf. Scholengroep Westland
+atscholen.magister.net;International School Almere
+atscholen.magister.net;International School Hilversum
+arcus.magister.net;ISG Arcus
+ivadriebergen.magister.net;IVA Driebergen
+pleysier.magister.net;J.C. Pleysierschool
+pleysier.magister.net;J.C. Pleysierschool Het Palmhuis
+pleysier.magister.net;J.C. Pleysierschool Transvaal College
+pleysier.magister.net;J.C. Pleysierschool Westerbeek College
+pleysier.magister.net;J.C. Pleysierschool Zefier
+jpthijsse.magister.net;Jac. P. Thijsse College
+jacob-roelandslyceum.magister.net;Jacob-Roelandslyceum
+jfsg.magister.net;Jacobus Fruytier SG
+tinbergen.magister.net;Jan Tinbergen College
+jeroenbosch.magister.net;Jeroen Bosch College
+projoannes.magister.net;Joannesschool voor Praktijkonderwijs
+projoannes.magister.net;Joannesschool voor Praktijkonderwijs Bemmel
+jdw.magister.net;Johan de Witt Scholengroep
+jdw.magister.net;Johan de Witt Scholengroep City+ College
+jdw.magister.net;Johan de Witt Scholengroep Varias College
+swaef.magister.net;Johannes de Swaef voor PRO
+fontanus.magister.net;Johannes Fontanus College
+kajmunk.magister.net;Kaj Munk College
+kalsbeek.magister.net;Kalsbeek College
+kandinsky.magister.net;Kandinsky College
+sgvvs.magister.net;Karel de Grote College Nijmegen
+ksgh.magister.net;Kath. SG Hoofddorp
+keizerkarel.magister.net;Keizer Karel College
+vobo.magister.net;Kempenhorst College
+kennemer.magister.net;Kennemer College
+kennemerlyceum.magister.net;Kennemer Lyceum Overveen
+kranenburg.magister.net;Kranenburgschool
+kwcollege.magister.net;Krimpenerwaard College
+kse.magister.net;KSE Etten-Leur
+breul.magister.net;KSG De Breul
+sgkwadrant.magister.net;Kwadrant Scholengroep Cambreur College
+sgkwadrant.magister.net;Kwadrant Scholengroep Dongen
+sgkwadrant.magister.net;Kwadrant Scholengroep Hanze College
+atscholen.magister.net;Laar en Berg
+landstedevo.magister.net;Landstede Groep VO Zwolle eo
+landstedevavo.magister.net;Landstede Groep Volwasseneneducatie Gelderland
+laurentius.magister.net;Laurentius Praktijkschool
+leeuwenborgh.magister.net;Leeuwenborgh Opleidingen
+lis.magister.net;Leidse Instrumentenmakers School
+davinci.magister.net;Leonardo College
+libanon.magister.net;Libanon Lyceum
+liemers.magister.net;Liemers College
+lindecollege.magister.net;Linde College
+vozuid.magister.net;LMC VO zuid
+vozuid.magister.net;LMC VO zuid Palmentuin
+vozuid.magister.net;LMC VO zuid Slinge
+vozuid.magister.net;LMC VO zuid Veenoord
+vonoord.magister.net;LMC-VO Rotterdam Noord
+lcl.magister.net;Lorentz Casimir Lyceum
+20tz.magister.net;Lorentz Lyceum
+ludger.magister.net;Ludger College
+luzac.magister.net;Luzac Opleidingen
+weert.magister.net;LVO  Weert Het College
+weert.magister.net;LVO  Weert Het Kwadrant
+parkstad.magister.net;LVO Parkstad
+helmond.magister.net;lvo-Mavo
+bisschopbekkers.magister.net;Lyceum Bisschop Bekkers
+20tz.magister.net;Lyceum Elst
+sanctamaria.magister.net;Lyceum Sancta Maria
+schondeln.magister.net;Lyceum Schondeln
+schravenlant.magister.net;Lyceum Schravenlant
+20tz.magister.net;Maarten van Rossem
+maaslandcollege.magister.net;Maaslandcollege
+maerlant.magister.net;Maerlant College Brielle
+maerlantlyceum.magister.net;Maerlant Lyceum Den Haag
+maimonides.magister.net;Maimonides SG
+vszh.magister.net;Marecollege Leiden
+maris.magister.net;Maris College
+markenhage.magister.net;Markenhage College Breda
+marnix.magister.net;Marnix College
+martinus.magister.net;Martinuscollege
+maurick.magister.net;Maurick College
+mavoroermond.magister.net;Mavo Roermond
+mavoschravenlant.magister.net;Mavo Schravenlant XL
+maxx.magister.net;MaxX
+landstedevo.magister.net;Meander College
+mediacollege.magister.net;Mediacollege Amsterdam
+mendel.magister.net;Mendelcollege
+mcvo.magister.net;Meridiaan College `t Hooghe Landt
+mcvo.magister.net;Meridiaan College Amersfoort
+zaamwest.magister.net;Meridiaan College Amsterdam
+mcvo.magister.net;Meridiaan College Het Nieuwe Eemland
+mcvo.magister.net;Meridiaan College Mavo Muurhuizen
+mcvo.magister.net;Meridiaan College Vakcollege Amersfoort
+merletcollege.magister.net;Merletcollege
+stevensbeek.magister.net;Metameer
+rientjes.magister.net;Mgr. A.E. Rientjes Mavo
+frencken.magister.net;Mgr. Frencken College
+mijnschool.magister.net;Mijnschool
+millhill.magister.net;Mill Hillcollege
+minkema.magister.net;Minkema College
+mollerlyceum.magister.net;Mollercollege
+mollerlyceum.magister.net;Mollerlyceum
+mondial.magister.net;Mondial College
+mondriaan.magister.net;Mondriaan VMBO Amersfoort
+02YH.magister.net;Montessori College Aerdenhout
+geldersmozaiek.magister.net;Montessori College Arnhem
+montessori.magister.net;Montessori College Nijmegen
+msa.magister.net;Montessori College Oost
+msa.magister.net;Montessori Lyceum Amsterdam
+hermanjordan.magister.net;Montessori Lyceum Herman Jordan
+rml.magister.net;Montessori Lyceum Rotterdam
+msa.magister.net;MSA
+msa.magister.net;MSA IVKO
+munnikenheide.magister.net;Munnikenheide College
+murmellius.magister.net;Murmellius Gymnasium
+newman.magister.net;Newmancollege
+niftarlake.magister.net;Niftarlake College
+nimeto.magister.net;Nimeto Utrecht
+noorderpoort.magister.net;Noorderpoort
+noorderpoortlbs.magister.net;Noorderpoort MBO
+sgvvs.magister.net;Novalis College
+nuborgh.magister.net;Nuborgh College
+nuovo.magister.net;Nuovo
+waterland.magister.net;OCL Het Waterland
+olympus.magister.net;Olympus College
+ommelander.magister.net;Ommelander College
+mollerlyceum.magister.net;OMO Scholengroep Bergen op Zoom e.o.
+helmond.magister.net;OMO Scholengroep Helmond
+delangstraat.magister.net;OMO SG De Langstraat d'Oultremontcollege
+delangstraat.magister.net;OMO SG De Langstraat Dr. Mollercollege Kaatsheuvel
+delangstraat.magister.net;OMO SG De Langstraat Dr. Mollercollege Waalwijk
+delangstraat.magister.net;OMO SG De Langstraat Walewyc
+sgtongerlo.magister.net;OMO SG Tongerlo
+sgtongerlo.magister.net;OMO SG Tongerlo Da Vinci College
+sgtongerlo.magister.net;OMO SG Tongerlo Gertrudiscollege
+sgtongerlo.magister.net;OMO SG Tongerlo Norbertuscollege
+ogtilburg.magister.net;Onderwijsgroep Tilburg
+ozhw.magister.net;Onderwijsgroep Zuid-Hollandse Waarden Barendrecht
+olvbreda.magister.net;Onze Lieve Vrouwelyceum
+oosterlicht.magister.net;Oosterlicht College
+15NE.magister.net;Oost-ter-Hout School voor Praktische Vorming
+griffioen.magister.net;OPDC Griffioen
+opdcnk.magister.net;OPDC Noord-Kennemerland
+openschoolgemeenschapbijlmer.magister.net;Open Schoolgemeenschap Bijlmer
+onc.magister.net;Oranje Nassau College
+orion.magister.net;Orion Lyceum
+lekenlinge.magister.net;ORS Lek en Linge
+oscar.magister.net;Oscar
+amersfoortseberg.magister.net;OSG De Amersfoortse Berg
+deeilanden.magister.net;OSG De Eilanden
+dehogeberg.magister.net;OSG De Hogeberg
+osghengelo.magister.net;OSG Hengelo Bataafs Lyceum
+osghengelo.magister.net;OSG Hengelo Het Genseler
+osghengelo.magister.net;OSG Hengelo Het Gilde College
+osghengelo.magister.net;OSG Hengelo Montessori College
+nieuwzuid.magister.net;OSG Nieuw Zuid
+osgschoonoord.magister.net;OSG Schoonoord
+sevenwolden.magister.net;OSG Sevenwolden
+singelland.magister.net;OSG Singelland
+sovon.magister.net;OSG Willem Blaeu
+winkler.magister.net;OSG Winkler Prins
+obc.magister.net;Over Betuwe College De Heister
+obc.magister.net;Over Betuwe College Elst
+obc.magister.net;Over Betuwe College Huissen
+obc.magister.net;Over Betuwe College Junior
+prnoord.magister.net;Overschie College
+zaamnoord.magister.net;Over-Y College
+pac.magister.net;Pallas Athene College
+pcg.magister.net;Parcival College Groningen
+zaamzaandam.magister.net;Pascal College
+zaamzaandam.magister.net;Pascal Zuid
+paulus.magister.net;Paulus Mavo/Vmbo
+pcc.magister.net;Petrus Canisius College
+weert.magister.net;Philips van Horne Sg.
+scz.magister.net;Picasso Lyceum Zoetermeer
+zaamoost.magister.net;Pieter Nieuwland College
+pieterzandt.magister.net;Pieter Zandt sg.
+pceckart.magister.net;Pleincollege Eckart
+pceckart.magister.net;Pleincollege Nuenen
+pcsintjoris.magister.net;Pleincollege Sint Joris 20AT
+pcsintjoris.magister.net;Pleinschool Helder
+pontessg.magister.net;Pontes Pieter Zeeman
+pontessg.magister.net;Pontes Scholengroep
+portamosana.magister.net;Porta Mosana College
+praedinius.magister.net;Praedinius Gymnasium
+sluis.magister.net;Praktijk College Spijkenisse
+pro-roermond.magister.net;Praktijkonderwijs Roermond
+zutphen.magister.net;Praktijkonderwijs Zutphen
+sovozaanstad.magister.net;Praktijkschool De Brug
+linie.magister.net;Praktijkschool de Linie
+depoort.magister.net;Praktijkschool De Poort
+desteiger.magister.net;Praktijkschool De Steiger
+pcsintjoris.magister.net;Praktijkschool Eindhoven
+focus.magister.net;Praktijkschool Focus
+polsstok.magister.net;Praktijkschool Focus
+pshelmond.magister.net;Praktijkschool Helmond
+bolwerk.magister.net;Praktijkschool Het Bolwerk
+emma.magister.net;Praktijkschool Uithoorn
+csgpm.magister.net;CSG Prins Maurits
+prostadskanaal.magister.net;PrO Stadskanaal
+18ec.magister.net;Prof. Dr. Gunningschool
+pronova.magister.net;Pronova Praktijkonderwijs
+wegwijzer.magister.net;ProNovaCollege
+praktijkschoolwf.magister.net;PRO-OPDC West-Friesland
+psg.magister.net;Purmerendse SG Anton Gaudi
+psg.magister.net;Purmerendse SG College voor Beroepsonderwijs
+psg.magister.net;Purmerendse SG Da Vinci College
+psg.magister.net;Purmerendse SG Jan van Egmond Lyceum
+psg.magister.net;Purmerendse SG Nelson Mandela
+psg.magister.net;Purmerendse SG W.J. Bladergroen
+raayland.magister.net;Raayland College
+recon.magister.net;Reconvalescentenschool
+reeshof.magister.net;Reeshof College
+reitdiep.magister.net;Reitdiep College Kamerlingh Onnes
+reitdiep.magister.net;Reitdiep College Leon van Gelder
+reitdiep.magister.net;Reitdiep College Simon van Hasselt
+respontvso.magister.net;Respont VSO
+reynaert.magister.net;Reynaertcollege
+rietveldlyceum.magister.net;Rietveld Lyceum
+mensoalting.magister.net;ROC Menso Alting
+rocmondriaan.magister.net;ROC Mondriaan
+novacollege.magister.net;ROC Nova College
+rodenborch.magister.net;Rodenborch-College
+roncalli.magister.net;Roncalli SG Bergen op Zoom
+zaamnoord.magister.net;Rosaschool
+broklede.magister.net;RSG Broklede
+rsgenkhuizen.magister.net;RSG Enkhuizen
+middelharnis.magister.net;RSG Goeree-Overflakkee
+rhedens.magister.net;RSG Het Rhedens Dieren
+rhedens.magister.net;RSG Het Rhedens Rozendaal
+rsglc.magister.net;RSG Lingecollege
+alvinus.magister.net;RSG Magister Alvinus Sneek
+rsgno.magister.net;RSG NO Veluwe
+pantarijn.magister.net;RSG Pantarijn
+vestdijk.magister.net;RSG Simon Vestdijk
+rsgslingerbos.magister.net;RSG Slingerbos
+rsgta.magister.net;RSG Ter Apel
+trompmeesters.magister.net;RSG Tromp Meesters
+wiringherlant.magister.net;RSG Wiringherlant
+vszh.magister.net;Rudolf Steiner College Rotterdam
+rythovius.magister.net;Rythovius College
+sgravendreef.magister.net;s Gravendreef College
+sovozaanstad.magister.net;Saenredam College
+sovozaanstad.magister.net;Saenstroom OPDC
+smmdb.magister.net;Sancta Maria MAVO
+stc.magister.net;Scheepvaart en Transport College
+scholenaanzee.magister.net;Scholen aan Zee
+sc-delfland.magister.net;Scholencombinatie Delfland
+scz.magister.net;Scholen Combinatie Zoetermeer
+weredi.magister.net;Scholengemeenschap Were Di
+sgdenhaag.magister.net;Scholengroep Den Haag Zuid-West
+geldersmozaiek.magister.net;Scholengroep Gelders Moza?ek
+baanbreker.magister.net;School voor Praktijkonderwijs De Baanbreker
+20RC.magister.net;Schoter SG
+segbroek.magister.net;Segbroek College
+daltonvoorburg.magister.net;SG Dalton Voorburg
+overlaat.magister.net;SG De Overlaat
+rietlanden.magister.net;SG de Rietlanden
+waerdenborch.magister.net;SG De Waerdenborch
+groenewald.magister.net;SG Groenewald
+groenewoud.magister.net;SG Groenewoud
+sgharreveld.magister.net;SG Harreveld
+nieuwelyceum.magister.net;SG Het Nieuwe Lyceum
+sgl.magister.net;SG Lelystad
+davinci.magister.net;SG Leonardo Da Vinci
+sgmaarsbergen.magister.net;SG Maarsbergen
+mariendael.magister.net;SG Mariendael
+reigersbos.magister.net;SG Reigersbos
+ursula.magister.net;SG Sint Ursula
+ubboemmius.magister.net;SG Ubbo Emmius
+pcsintjoris.magister.net;Sint Joriscollege
+odulphus.magister.net;Sint Odulphuslyceum
+sv.magister.net;Sint Vituscollege
+sintjans.magister.net;Sint-Janslyceum
+slc.magister.net;Sint-Laurenscollege Rotterdam
+sintlucasboxtel.magister.net;SintLucas Boxtel
+sintlucaseindhoven.magister.net;SintLucas Eindhoven
+smchv.magister.net;Sint-Maartenscollege Maastricht
+sintmaartens.magister.net;Sint-Maartenscollege Voorburg
+nicolaas.magister.net;Sint-Nicolaaslyceum
+oelbert.magister.net;Sint-Oelbertgymnasium
+stanislas.magister.net;Sint-Stanislascollege
+soma.magister.net;SOMA College
+sondervick.magister.net;Sondervick College
+sophianum.magister.net;Sophianum
+spinoza.magister.net;Spinoza Lyceum
+sprengeloo.magister.net;Sprengeloo
+atscholen.magister.net;St. Aloysius College Hilversum
+bonifatius.magister.net;St. Bonifatiuscollege
+ignatius.magister.net;St. Ignatiusgymnasium
+michael.magister.net;St. Michael College
+sjm.magister.net;St.-Jozefmavo Vlaardingen
+sjm.magister.net;St.-Jozefschool voor MAVO Vlaardingen
+stadenesch.magister.net;Stad en Esch
+stanislas.magister.net;Stanislascollege
+staring.magister.net;Staring College
+scz.magister.net;Stedelijk College Zoetermeer
+sovon.magister.net;Stedelijk Dalton College Alkmaar
+sga.magister.net;Stedelijk Gymnasium Arnhem
+gymnasiumbreda.magister.net;Stedelijk Gymnasium Breda
+sgdenbosch.magister.net;Stedelijk Gymnasium Den Bosch
+sghaarlem.magister.net;Stedelijk Gymnasium Haarlem
+jvo.magister.net;Stedelijk Gymnasium Johan van Oldenbarnevelt
+sgleiden.magister.net;Stedelijk Gymnasium Leiden
+sgymschiedam.magister.net;Stedelijk Gymnasium Schiedam
+derede.magister.net;Stedelijke SG De Rede
+ssgn.magister.net;Stedelijke SG Nijmegen
+stellamaris.magister.net;Stella Maris College
+swc.magister.net;Stellingwerf College
+gregorius.magister.net;St-Gregorius College
+cvo.magister.net;Stichting CVO Apeldoorn
+kolom.magister.net;Stichting Kolom
+kolom.magister.net;Stichting Kolom De Atlant
+kolom.magister.net;Stichting Kolom De Dreef
+kolom.magister.net;Stichting Kolom Het Plein
+kolom.magister.net;Stichting Kolom Noord
+sgvvs.magister.net;Stichtse Vrije School
+sgcl.magister.net;s Gravendreef College Leidschendam
+strabrecht.magister.net;Strabrecht College
+einder.magister.net;SVO De Einder
+zaamzuid.magister.net;Sweelinck College
+symbion.magister.net;Symbion
+atrium.magister.net;t Atrium Amersfoort
+wildveld.magister.net;'t Wildveld
+tabor.magister.net;Tabor College
+landstedevo.magister.net;Talentstad
+tmcv.magister.net;Technisch en Maritiem College Velsen
+tender.magister.net;Tender College Ijmuiden
+terranigra.magister.net;Terra Nigra
+thamen.magister.net;Thamen RKSG
+theresia.magister.net;Theresialyceum
+thorbecke.magister.net;Thorbecke SG Zwolle
+vszh.magister.net;Tobiasschool Den Haag
+sgvvs.magister.net;Tobiasschool Nijmegen
+trevianum.magister.net;Trevianum Scholengroep
+triascollege.magister.net;Trias College Amersfoort
+sovozaanstad.magister.net;Trias VMBO
+udens.magister.net;Udens College
+ulenhof.magister.net;Ulenhofcollege
+helmond.magister.net;Vakcollege Helmond
+sgboh.magister.net;Vakcollege Sevenwolden
+valuas.magister.net;Valuascollege
+capellen.magister.net;Van der Capellen SG
+capellen.magister.net;Van Kinsbergen college Elburg
+lodenstein.magister.net;Van Lodensteincollege
+pcmaerlant.magister.net;Van Maerlantlyceum Eindhoven
+varendonck.magister.net;Varendonck-College
+vathorst.magister.net;Vathorst College
+vechtdal.magister.net;Vechtdal College
+veenlanden.magister.net;VeenLanden College
+20EK.magister.net;Vellesan College
+veurslyceum.magister.net;Veurs Lyceum Leidschendam
+veursvoorburg.magister.net;Veurs Voorburg
+vhl.magister.net;Visser 't Hooft Lyceum
+krijtenburg.magister.net;VMBO De Krijtenburg
+via.magister.net;VMBO Ichthus Almere
+geldersmozaiek.magister.net;VMBO Het Venster
+vobo.magister.net;VO Best Oirschot
+vova.magister.net;Voortgezet Onderwijs van Amsterdam
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Bredero Beroepscollege
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Bredero Lyceum
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Bredero Mavo
+vova.magister.net;Voortgezet Onderwijs van Amsterdam De Berkhoff
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Hubertus Vakschool
+vova.magister.net;Voortgezet Onderwijs van Amsterdam LUCA Praktijkschool
+vova.magister.net;Voortgezet Onderwijs van Amsterdam ROC Op Maat West
+vova.magister.net;Voortgezet Onderwijs van Amsterdam ROC Op Maat Zuidoost
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Stelle College
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Tobiasschool
+vova.magister.net;Voortgezet Onderwijs van Amsterdam Westburg College
+vossius.magister.net;Vossius Gymnasium
+vsz.magister.net;Vrijeschool Zutphen
+vcl.magister.net;Vrijzinnig-Christelijk Lyceum
+piramide.magister.net;VSO De Piramide
+hendrikmol.magister.net;VSO Hendrik Mol
+ozhw.magister.net;Walburg College Zwijndrecht
+zaamnoord.magister.net;Waterlant College
+wdz.magister.net;Willem de Zwijger College Bussum
+willemdezwijger.magister.net;Willem de Zwijger College Hardinxveld-Giessendam
+willemdezwijger.magister.net;Willem de Zwijger College Papendrecht
+wlg.magister.net;Willem Lodewijk Gymnasium
+gertenbach.magister.net;Wim Gertenbach College
+stebo.magister.net;Winford Amsterdam
+stebo.magister.net;Winford Den Haag
+stebo.magister.net;Winford Utrecht
+winfordwestvoorne.magister.net;Winford Westvoorne
+wolfert.magister.net;Wolfert van Borselen scholengroep
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert College
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert Dalton
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert ISK
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert Lyceum
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert PRO
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert RISS
+wolfert.magister.net;Wolfert van Borselen scholengroep Wolfert Tweetalig
+sovozaanstad.magister.net;Zaanlands Lyceum
+zeldenruststeelant.magister.net;Zeldenrust-Steelantcollege
+zernike.magister.net;Zernike College
+zaamzuid.magister.net;Zuiderlicht College
+zuiderzee-college.magister.net;Zuiderzee College
+zuyderzee.magister.net;Zuyderzee College
+zwijsen.magister.net;Zwijsen College
+zwin.magister.net;Zwin College
+willem2.magister.net;Koning Willem II College
