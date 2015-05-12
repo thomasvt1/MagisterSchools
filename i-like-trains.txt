@@ -754,3 +754,4 @@ zuyderzee.magister.net;Zuyderzee College
 zwijsen.magister.net;Zwijsen College
 zwin.magister.net;Zwin College
 willem2.magister.net;Koning Willem II College
+niekee.magister.net;Niekee Roermond
