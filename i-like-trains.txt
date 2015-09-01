@@ -376,7 +376,7 @@ jdw.magister.net;Johan de Witt Scholengroep
 jdw.magister.net;Johan de Witt Scholengroep City+ College
 jdw.magister.net;Johan de Witt Scholengroep Varias College
 swaef.magister.net;Johannes de Swaef voor PRO
-fontanus.magister.net;Johannes Fontanus College
+jfc.magister.net;Johannes Fontanus College
 kajmunk.magister.net;Kaj Munk College
 kalsbeek.magister.net;Kalsbeek College
 kandinsky.magister.net;Kandinsky College
@@ -587,7 +587,7 @@ rsgno.magister.net;RSG NO Veluwe
 pantarijn.magister.net;RSG Pantarijn
 vestdijk.magister.net;RSG Simon Vestdijk
 rsgslingerbos.magister.net;RSG Slingerbos
-rsgta.magister.net;RSG Ter Apel
+rsgterapel.magister.net;RSG Ter Apel
 trompmeesters.magister.net;RSG Tromp Meesters
 wiringherlant.magister.net;RSG Wiringherlant
 vszh.magister.net;Rudolf Steiner College Rotterdam
@@ -756,3 +756,19 @@ zwin.magister.net;Zwin College
 willem2.magister.net;Koning Willem II College
 derede.magister.net;SSG De Rede
 niekee.magister.net;Niekee Roermond
+debreul.magister.net;KSG De Breul
+helicon.magister.net;Helicon vmbo
+onderwijsgroeptilburg.magister.net;Frater van Gemertschool
+onderwijsgroeptilburg.magister.net;Onderwijsgroep Tilburg
+gregorius.magister.net;St. Gregorius College
+rembrandt.magister.net;Rembrandt College
+zaam.magister.net;Havo De Hof
+zaam.magister.net;Zaam
+obc.magister.net;OBC
+obc.magister.net;Over Betuwe College
+daltondordrecht.magister.net;Stedelijk Dalton Lyceum
+parkstad.magister.net;Sint-Jan College
+ypenburg.magister.net;Lyceum Ypenburg
+tessenderlandt.magister.net;Tessenderlandt
+tessenderlandt.magister.net;De la Salle
+tessenderlandt.magister.net;Christoffel
