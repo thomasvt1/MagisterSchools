@@ -142,10 +142,10 @@ comenius.magister.net;CSG Comenius
 delagewaard.magister.net;CSG De Lage Waard
 dingstede.magister.net;CSG Dingstede
 eekeringe.magister.net;CSG Eekeringe
-ghlyceum.magister.net;CSG Groene Hart Leerpark
-ghlyceum.magister.net;CSG Groene Hart Lyceum
-ghlyceum.magister.net;CSG Groene Hart Rijnwoude
-ghlyceum.magister.net;CSG Groene Hart Topmavo
+groenehart.magister.net;CSG Groene Hart Leerpark
+groenehart.magister.net;CSG Groene Hart Lyceum
+groenehart.magister.net;CSG Groene Hart Rijnwoude
+groenehart.magister.net;CSG Groene Hart Topmavo
 noordik.magister.net;CSG Het Noordik Almelo
 noordik.magister.net;CSG Het Noordik Vriezenveen
 noordik.magister.net;CSG Het Noordik Vroomshoop
@@ -772,3 +772,6 @@ ypenburg.magister.net;Lyceum Ypenburg
 tessenderlandt.magister.net;Tessenderlandt
 tessenderlandt.magister.net;De la Salle
 tessenderlandt.magister.net;Christoffel
+mencia.magister.net;Mencia de Mendoza
+vsvonh.magister.net;Stg Vrije Scholen
+vsvonh.magister.net;Adriaan Roland Holstschool
