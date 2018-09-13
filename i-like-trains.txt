@@ -1,6 +1,7 @@
 2college.magister.net;2College
 2college.magister.net;2College Cobbenhagen
-2college.magister.net;2College De Nieuwste School
+denieuwsteschool.magister.net;2College De Nieuwste School
+denieuwsteschool.magister.net;De Nieuwste School
 2college.magister.net;2College Durendael
 2college.magister.net;2College Jozefmavo
 2college.magister.net;2College Ruiven
@@ -62,7 +63,6 @@ atlas.magister.net;Atlas College VMBO Titaan
 aog.magister.net;Atlas Onderwijsgroep
 aog.magister.net;Atlas Onderwijsgroep Locatie Rijswijk
 aog.magister.net;Atlas Onderwijsgroep Lyceum Ypenburg
-avicenna.magister.net;Avicenna College
 bhc.magister.net;Baanderherencollege
 baudartius.magister.net;Baudartius College
 broekhinrm.magister.net;BC Broekhin Reuver
@@ -85,7 +85,7 @@ bonaventura.magister.net;Bonaventuracollege
 bonhoeffer.magister.net;Bonhoeffer College
 bonifatiusmavo.magister.net;Bonifatius mavo
 bonnefanten.magister.net;Bonnefanten College
-nieuwzuid.magister.net;BOOR
+boor.magister.net;BOOR
 bbc.magister.net;Bouwens van der Boije College
 broeckland.magister.net;Broeckland College
 sgwalda.magister.net;Burgemeester Walda SG
@@ -358,7 +358,7 @@ hofstadcollege.magister.net;Interconf. Hofstadcollege Hofstad Mavo
 isw.magister.net;Interconf. Scholengroep Westland
 atscholen.magister.net;International School Almere
 atscholen.magister.net;International School Hilversum
-arcus.magister.net;ISG Arcus
+svol.magister.net;ISG Arcus
 ivadriebergen.magister.net;IVA Driebergen
 pleysier.magister.net;J.C. Pleysierschool
 pleysier.magister.net;J.C. Pleysierschool Het Palmhuis
@@ -403,11 +403,14 @@ davinci.magister.net;Leonardo College
 libanon.magister.net;Libanon Lyceum
 liemers.magister.net;Liemers College
 lindecollege.magister.net;Linde College
-vozuid.magister.net;LMC VO zuid
-vozuid.magister.net;LMC VO zuid Palmentuin
-vozuid.magister.net;LMC VO zuid Slinge
-vozuid.magister.net;LMC VO zuid Veenoord
-vonoord.magister.net;LMC-VO Rotterdam Noord
+lmc-vo.magister.net;LMC VO zuid
+lmc-vo.magister.net;LMC VO zuid Palmentuin
+lmc-vo.magister.net;LMC VO zuid Slinge
+lmc-vo.magister.net;LMC VO zuid Veenoord
+lmc-vo.magister.net;LMC-VO Rotterdam Noord
+lmc-vo.magister.net;Sint Montfort College
+lmc-vo.magister.net;LMC-VO
+lmc-vo.magister.net;Hildegardis Mavo
 lcl.magister.net;Lorentz Casimir Lyceum
 20tz.magister.net;Lorentz Lyceum
 ludger.magister.net;Ludger College
@@ -628,7 +631,7 @@ sintjans.magister.net;Sint-Janslyceum
 slc.magister.net;Sint-Laurenscollege Rotterdam
 sintlucasboxtel.magister.net;SintLucas Boxtel
 sintlucaseindhoven.magister.net;SintLucas Eindhoven
-smchv.magister.net;Sint-Maartenscollege Maastricht
+smc.magister.net;Sint-Maartenscollege Maastricht
 sintmaartens.magister.net;Sint-Maartenscollege Voorburg
 nicolaas.magister.net;Sint-Nicolaaslyceum
 oelbert.magister.net;Sint-Oelbertgymnasium
@@ -775,3 +778,20 @@ tessenderlandt.magister.net;Christoffel
 mencia.magister.net;Mencia de Mendoza
 vsvonh.magister.net;Stg Vrije Scholen
 vsvonh.magister.net;Adriaan Roland Holstschool
+cvozwfryslan.magister.net;CVO Zuid-West Fryslan
+cvozwfryslan.magister.net;Marne College
+prisma.magister.net;Prisma College
+boor.magister.net;OSG Hugo de Groot
+avicennacollege.magister.net;Avicenna College
+ichthuslyceum.magister.net;Ichthus Lyceum
+rhedens.magister.net;RSG Het Rhedens
+lmc-vo.magister.net;Zuiderpark College
+isw.magister.net;ISW Hoogeland
+connectcollege.magister.net;Connect College
+triviumcollege.magister.net;Trivium College
+lmc-vo.magister.net;Mavo Delfshaven
+smc.magister.net;Sint Maartenscollege Maastricht
+rocwb.magister.net;ROC West-Brabant
+mch.magister.net;Maritieme Academie Harlingen
+gomarus.magister.net;Gomarus College Drachten
+zone.magister.net;Zone.college
